@@ -1,4 +1,4 @@
-#Spring-Boot-JWT-secured-API-template
+# Spring-Boot-JWT-secured-API-template
 
 
 Important: change application.properties file and properly set up your own local postgres database.
