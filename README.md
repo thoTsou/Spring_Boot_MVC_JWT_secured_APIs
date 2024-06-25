@@ -1,4 +1,4 @@
-# JWT secured API template
+# JWT secured APIs
 
 - This project could be taken under consideration when setting up (non-reactive) API stateless security based on JWTs.
 
